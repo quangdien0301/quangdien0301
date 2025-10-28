@@ -14,9 +14,4 @@ I work with **Vue JS**, **Django**, and **Bootstrap, Taiwindcss** to expand my f
 
 ---
 
-### 🌱 What I’m learning  
-- Building RESTful APIs with Django  
----
----
-
 💡 *"Continuous learning and sharing knowledge make the best engineers."*
