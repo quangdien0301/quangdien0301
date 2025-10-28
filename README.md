@@ -2,7 +2,7 @@
 
 🎯 
 I’m passionate about improving system reliability, optimizing workflows, and developing user-centric web.  
-Currently learning **Vue JS**, **Django**, and **Bootstrap, Taiwindcss** to expand my full-stack development skills.
+I work with **Vue JS**, **Django**, and **Bootstrap, Taiwindcss** to expand my full-stack development skills.
 
 ---
 
