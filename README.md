@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @quangdien0301
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Dien Ho  
 
-<!---
-quangdien0301/quangdien0301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 
+I’m passionate about improving system reliability, optimizing workflows, and developing user-centric web.  
+Currently learning **Vue JS**, **Django**, and **Bootstrap, Taiwindcss** to expand my full-stack development skills.
+
+---
+
+### 🧰 Tech Stack  
+- **Languages:** Python, JavaScript 
+- **Frameworks:** Django, Vuejs  
+- **Databases:** PostgreSQL, SQLite, MySQL  
+- **Tools:** Git, Docker, AWS Lightsail, Jira
+
+---
+
+### 🌱 What I’m learning  
+- Building RESTful APIs with Django  
+---
+---
+
+💡 *"Continuous learning and sharing knowledge make the best engineers."*
